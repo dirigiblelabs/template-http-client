@@ -1,4 +1,4 @@
-# Template V3 - HTTP Client
+# Template - HTTP Client
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-v3-http-client.svg)](https://github.com/dirigiblelabs/template-v3-http-client/graphs/contributors)
